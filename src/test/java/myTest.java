@@ -5,6 +5,7 @@ public class myTest {
 
     @Test
     public void testone(){
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
+
     }
 }
